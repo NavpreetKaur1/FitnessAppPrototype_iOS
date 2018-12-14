@@ -1,3 +1,3 @@
 # FitnessAppPrototype_iOS
 
-<img src="fitnessApp.gif" width: "300px" height="300px">
+<img src="nutrifit.gif" width: "300px" height="300px">
